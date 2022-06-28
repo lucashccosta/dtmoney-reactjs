@@ -1,6 +1,9 @@
 # DTMONEY-REACTJS
 Frontend construído em ReactJs com typescript da aplicação dtmoney.
 
+![](./.github/assets/home.jpg)
+![](./.github/assets/modal.jpg)
+
 ## Rodando a aplicação
 1. Antes de rodar a aplicação é necessário ter instalado:
 
